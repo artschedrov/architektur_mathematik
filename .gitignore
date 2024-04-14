@@ -1,4 +1,5 @@
 .DS_Store
+.idea
 main.aux
 main.fdb_latexmk
 main.fls
